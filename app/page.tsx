@@ -76,7 +76,7 @@ const featuredproviders = [
     email: "info@Adannacleaners.com",
     image:
       "https://i.pinimg.com/736x/e3/dd/b0/e3ddb011e1f98a32f6c1c9f5c03ee515.jpg",
-    description: "I sha sabi cook, just dm me make i come cook for u",
+    description: "I sha sabi clean, just dm me make i come clean for u",
   },
   {
     id: 2,
@@ -123,7 +123,7 @@ const featuredHouses = [
     email: "info@Adannacleaners.com",
     image:
       "https://tse2.mm.bing.net/th/id/OIP.5C-2MvJDL6hpK70AYjU9AwHaFj?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
-    description: "I sha sabi cook, just dm me make i come cook for u",
+    description: "I sha sabi clean, just dm me make i come clean for u",
   },
   {
     id: 2,
