@@ -20,14 +20,14 @@ const getproviderData = (id: string) => {
   const providers = {
     "1": {
       id: 1,
-      name: "Squegy Cleaning services",
+      name: "Adanna Cleaning services",
       category: "Home Cleaning Services",
       rating: 4.8,
       reviewCount: 124,
-      location: "Rivers state, Nigeria",
+      location: "Aluu",
       phone: "+234 801 234 5678",
-      email: "info@squegycleaners.com",
-      website: "www.adebayointeriors.com",
+      email: "info@Adannacleaners.com",
+      website: "omijeh-david.vercel.app",
       description:
         "Professional home cleaning services with over 10 years of experience. We specialize in creating beautiful, functional spaces that reflect your personal style and meet your specific needs.",
       services: [
@@ -42,7 +42,7 @@ const getproviderData = (id: string) => {
       completedProjects: 250,
       responseTime: "Within 2 hours",
       portfolio: [
-        "https://candycanclean.com/wp-content/uploads/2024/04/cleaning-services-company-in-Nairobi-kenya.jpg",
+        "https://i.pinimg.com/736x/e3/dd/b0/e3ddb011e1f98a32f6c1c9f5c03ee515.jpg",
         "https://www.jaymincleaningservices.co.ke/wp-content/uploads/2025/01/1-22-1-1024x683.jpg",
         "https://www.medilac.co.za/wp-content/uploads/2021/05/cleaning.jpg",
         "https://www.cleaningafrica.co.za/wp-content/uploads/2024/05/Commercial-Contract-Cleaning-Services-1.jpg",
@@ -56,7 +56,7 @@ const getproviderData = (id: string) => {
           rating: 5,
           date: "2 weeks ago",
           comment:
-            "Absolutely amazing work! Squegy transformed our home into a clean, modern space. Highly professional and creative.",
+            "Absolutely amazing work! Adanna transformed our home into a clean, modern space. Highly professional and creative.",
         },
         {
           id: 2,

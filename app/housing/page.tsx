@@ -32,12 +32,7 @@ import {
 } from "@/components/ui/sheet";
 import { WhatsAppButton } from "@/components/whatsapp-button";
 
-const categories = [
-  "Hostel",
-  "Lodge",
-  "Apartment",
-  "Squat",
-];
+const categories = ["Hostel", "Lodge", "Apartment", "Squat"];
 
 const locations = [
   "Abuja Campus",
@@ -59,10 +54,11 @@ const allProviders = [
     location: "inside abuja",
     Address: "123 Clean St, Port Harcourt",
     phone: "+234 801 234 5678",
-    email: "info@squegycleaners.com",
+    email: "info@Adannacleaners.com",
     image:
       "https://tse2.mm.bing.net/th/id/OIP.5C-2MvJDL6hpK70AYjU9AwHaFj?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
-    description: "Erm, I'm selling my space in mandela(i dey fear cultist) hmu for more details",
+    description:
+      "Erm, I'm selling my space in mandela(i dey fear cultist) hmu for more details",
   },
   {
     id: 2,
@@ -91,8 +87,7 @@ const allProviders = [
     email: "hello@mrcleanlaundry.com",
     image:
       "https://www.nairaland.com/attachments/15200557_img20210824wa0010_jpeg6431f2dbe7347507d9a55c8d67709725",
-    description:
-      "Space at Omega Lodge available.. For the ladies only😏",
+    description: "Space at Omega Lodge available.. For the ladies only😏",
   },
 ];
 
@@ -226,7 +221,10 @@ export default function ProvidersPage() {
               <span className="text-xl font-bold text-blue-600">UniHub</span>
             </Link>
             <nav className="hidden md:flex items-center space-x-6">
-              <Link href="/providers" className="text-muted-foreground hover:text-foreground">
+              <Link
+                href="/providers"
+                className="text-muted-foreground hover:text-foreground"
+              >
                 Find Providers
               </Link>
               <Link

@@ -66,14 +66,14 @@ function WhatsAppBotButton({
 const featuredproviders = [
   {
     id: 1,
-    name: "Miriam Amaka",
-    category: "I sabi cook",
+    name: "Adanna Cleaning Services",
+    category: "I sabi clean",
     rating: 4.8,
     reviews: 124,
     location: "Girl's hostel",
     Address: "123 Clean St, Port Harcourt",
     phone: "+234 801 234 5678",
-    email: "info@squegycleaners.com",
+    email: "info@Adannacleaners.com",
     image:
       "https://i.pinimg.com/736x/e3/dd/b0/e3ddb011e1f98a32f6c1c9f5c03ee515.jpg",
     description: "I sha sabi cook, just dm me make i come cook for u",
@@ -120,7 +120,7 @@ const featuredHouses = [
     location: "inside abuja",
     Address: "123 Clean St, Port Harcourt",
     phone: "+234 801 234 5678",
-    email: "info@squegycleaners.com",
+    email: "info@Adannacleaners.com",
     image:
       "https://tse2.mm.bing.net/th/id/OIP.5C-2MvJDL6hpK70AYjU9AwHaFj?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     description: "I sha sabi cook, just dm me make i come cook for u",
